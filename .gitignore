@@ -1,0 +1,22 @@
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+swagger.json
+eslint.config.mjs
+.prettierrc
+.gitignore copy
+README.md
+tsconfig.build.json
+package-lock.json
+src/country/country.service.spec.ts
+src/country/country.controller.spec.ts
+src/user/user.controller.spec.ts
+src/user/user.service.spec.ts
+src/app.controller.spec.ts
