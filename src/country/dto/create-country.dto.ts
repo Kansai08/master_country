@@ -1,6 +1,6 @@
 import { ApiProperty } from '@nestjs/swagger';
 
 export class CreateCountryDto {
-  @ApiProperty({ example: 'Thailand' })
+  @ApiProperty({ example: 'Singapore' })
   name: string;
 }
